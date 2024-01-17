@@ -1,0 +1,468 @@
+.backgound-img{
+    background-image: url('../B9A2-Hero-Travel/Images/Group\ 13\ \(1\)\ \(1\).png');
+    width: 1170px;
+height: 500px;
+border-radius: 16px;
+
+
+
+}
+.Hero-Travel{
+    color: #131318;
+
+font-family: Mulish;
+font-size: 36px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-top: 0;
+
+
+}
+.nav-items{
+    display: flex;
+    justify-content:space-between ;
+}
+.nav-option{
+    display: flex;
+    margin-right: 80px;
+    
+}
+.nav-option>h3{
+    margin: 0 20px;
+}
+
+.Explore{
+
+    color: #FFF;
+
+    font-family: Mulish;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-align: center;
+    height:80px ;
+    width:600px ;
+    margin-left: 300px;
+    margin-top: 200px;
+    margin-bottom: 0;
+    display: flex;
+    padding: 0;
+}
+.Travel{
+    color: #FF5400;
+font-family: Mulish;
+font-size: 36px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.paragraph{
+    color: #FFF;
+
+text-align: center;
+font-family: Mulish;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; /* 162.5% */
+margin-top: 0;
+margin-bottom: 0;
+margin-left: 250px;
+}
+.button{
+    margin-left: 400px;
+    
+    display: flex;
+    gap: 30px;
+    color: #FFF;
+    border-radius: 8px;
+    text-align: center;
+    width: 250px;
+height: 30px;}
+.color-section{
+    display: flex;
+    margin: 20px;
+    
+}
+  
+.text-Section{
+    padding-bottom: 200px;
+}
+.text-area{
+    width: 50%;
+}
+.card-flex{
+    display: flex;
+    gap: 30px;
+}
+
+
+
+.popular{
+color: #131318;;
+    
+
+text-align: left;
+font-family: Mulish;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.imaging{
+    width: 540px;
+height: 550px;
+display: flex;
+
+margin-left: 5px;
+}
+
+.popular-para{
+    color: rgba(19, 19, 24, 0.70);
+
+font-family: Mulish;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; /* 162.5% */
+
+}
+
+
+.line{
+    color: rgba(19, 19, 24, 0.70);
+
+font-family: Mulish;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; /* 162.5% */
+
+}
+     
+.para{
+    color: rgba(19, 19, 24, 0.70);
+
+font-family: Mulish;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; /* 162.5% */
+
+}
+
+
+
+.row{
+    
+    border-radius: 16px;
+    display: flex;
+    gap: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    height: 100%;
+}
+
+.Destination{
+    color: #131318;
+
+text-align: center;
+font-family: Mulish;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+
+}
+.choose{
+    color: rgba(19, 19, 24, 0.70);
+
+text-align: center;
+font-family: Mulish;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; /* 162.5% */
+}
+
+.choosen{
+    color: #131318;
+
+text-align: center;
+font-family: Mulish;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.because{
+    color: rgba(19, 19, 24, 0.70);
+
+text-align: center;
+font-family: Mulish;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; /* 162.5% */
+}
+.background-colored{
+    width: 573px;
+height: 284px;
+border-radius: 16px;
+border: 1px solid rgba(251, 181, 99, 0.20);
+
+background: rgba(251, 181, 99, 0.05);
+gap: 10px;
+
+}
+.hotel{
+    color: #131318;
+
+text-align: left;
+font-family: Mulish;
+font-size: 24px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-left: 20px;
+margin-top: 100px;
+}
+.place{
+    color: #5A5A5D;
+
+font-family: Mulish;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; /* 162.5% */
+margin-left: 20px;
+}
+.goal{
+
+}
+.back-ground-modify{
+    border-radius: 16px;
+border: 1px solid rgba(41, 206, 246, 0.20);
+
+background: rgba(41, 206, 246, 0.05);
+
+
+width: 573px;
+height: 284px;
+gap: 10px;
+
+
+
+
+
+}
+.world{
+    color: #131318;
+
+font-family: Mulish;
+font-size: 24px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+
+text-align: left;
+margin-left: 20px;
+margin-top: 100px;
+
+}
+
+.hurry{
+    color: #5A5A5D;
+
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+    
+    display: flex;
+    margin-left: 20px;
+
+}
+.background-coloring{
+    border-radius: 16px;
+border: 1px solid rgba(233, 68, 68, 0.20);
+
+background: rgba(233, 68, 68, 0.05);
+width: 573px;
+height: 284px;
+margin-left: 290px;
+margin-bottom: 20px;
+gap: 20px; 
+margin-top: 30px;
+}
+
+
+.background{
+    width: 474px;
+height: 422px;
+border-radius: 16px;
+border: 1px solid #FF5400;
+gap: 20px;
+margin-left: 20px;
+display: flex;
+margin-top: 100px;
+
+}
+.enter{
+    width: 393px;
+height: 52px;
+border-radius: 8px;
+gap: 20px;
+margin-left: 20px;
+
+}
+.daily{
+    margin-left: 20px;
+}
+.news{
+    margin-left: 20px;
+}
+.image{
+    display: flex;
+    width: 672px;
+height: 422px;
+border-radius: 16px;
+margin-left: 100px;
+margin-bottom: 800px;
+justify-content: end;
+
+}
+.back{
+    width: 1250px;
+height: 502px;
+background: rgba(19, 19, 24, 0.05);
+margin-top: 100px;
+margin-left: 10px;
+}
+
+
+.pik{
+    margin-left: 430px;
+    
+}
+.ps{
+    text-align: center;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    margin-top:100px;
+    
+}
+.rs{
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+.hero{
+    color: var(--Dark-01, #131318);
+    
+    font-family: Mulish;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-align: center;
+    margin-left: 400px;
+    margin-bottom: 100px;
+    
+    
+    
+    
+    
+
+}
+.tr{
+    color: #FF5400;
+    text-align: center;
+    margin-right: 600px;
+    margin-bottom: 100px;
+
+
+}
+.part{
+    color: #5A5A5D;
+
+text-align: center;
+font-family: Mulish;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; /* 162.5% */
+
+}
+.icon{
+    margin-left: 450px;
+
+
+}
+.src{
+    margin-top: 100px;
+}
+.rs{
+    margin: 0;
+}
+/*responsive media */
+@media  screen and (max-width: 600px){
+    
+}
+  
+
+
+.page{
+    background: #FFF;
+    width: 600px;
+height: 400px;
+display: flex;
+}
+
+.perfect{
+    color: #131318;
+
+font-family: Mulish;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: 60px; /* 150% */
+width: 448px;
+}
+.passage{
+    color: #5A5A5D;
+
+font-family: Mulish;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; /* 162.5% */
+}
+.ass{
+    color: #131318;
+
+font-family: Mulish;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 26px; /* 162.5% */
+}
+.collage{
+    margin-top: 50px;
+    margin-left: 150px;
+}
+
+
+
+
+  
